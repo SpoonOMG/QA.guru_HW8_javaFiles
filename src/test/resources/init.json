@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "channel": "ufo"
+  },
+  "data": {
+    "scenario": {
+      "id": "sc_6bd8843469e7c68"
+    },
+    "clientContext": {
+      "employee": {
+        "department": {
+          "code":"099/1039"
+        }
+      }
+    },
+    "verifyData": {
+      "values": [
+        {
+          "id": "login",
+          "value": "gpbu9650"
+        },
+        {
+        "id": "virtualNum",
+        "value": "DRTL10074435969"
+      },
+        {
+          "id": "userFullName",
+          "value": "Ефимов Андрей Васильевич"
+        }
+      ]
+    },
+    "operation": {
+    }
+  }
+}

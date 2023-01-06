@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guru.qa.HomeWorkWithFiles" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-01-06T15:14:54" hostname="24-002585" time="3.034">
+  <properties/>
+  <testcase name="jsonTest()" classname="guru.qa.HomeWorkWithFiles" time="0.345"/>
+  <testcase name="xlsTest()" classname="guru.qa.HomeWorkWithFiles" time="0.762"/>
+  <testcase name="pdfTest()" classname="guru.qa.HomeWorkWithFiles" time="0.774"/>
+  <testcase name="extractZipFile()" classname="guru.qa.HomeWorkWithFiles" time="0.904"/>
+  <testcase name="csvTest()" classname="guru.qa.HomeWorkWithFiles" time="0.246"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
